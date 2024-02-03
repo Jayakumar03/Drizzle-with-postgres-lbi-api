@@ -6,7 +6,7 @@ Boiler part code for `Drizzle` as ORM, `PostgreSQL` as DB with `Node.js` and `Ex
 
 ## Installation
 
-1. Clone the repository using the following command: `git clone https://github.com/Jayakumar03/drizzle-postgres`
+1. Clone the repository using the following command: ` git clone https://github.com/Jayakumar03/drizzle-postgres `
 
 2. Navigate to the project directory: `cd drizzle-postgres `
 
@@ -14,7 +14,7 @@ Boiler part code for `Drizzle` as ORM, `PostgreSQL` as DB with `Node.js` and `Ex
 
 4. Change the database name and password in the `.env` file:
 
-5. Change the user name in `.db.js `file and `drizzle.config.js` file:
+5. Change the user name in `.db.js` file and `drizzle.config.js` file:
 
 6. Run the migrations (if applicable): `npm run migration:generate`
 
