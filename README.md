@@ -14,7 +14,7 @@ Boiler part code for `Drizzle` as ORM, `PostgreSQL` as DB with `Node.js` and `Ex
 
 4. Change the database name and password in the `.env` file:
 
-5. Change the user name in `.db.js` file and `drizzle.config.js` file:
+5. Change the user name in `db.js` file and `drizzle.config.js` file:
 
 6. Run the migrations (if applicable): `npm run migration:generate`
 
